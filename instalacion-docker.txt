@@ -31,4 +31,13 @@ Para que los cambios sean efectivos debemos volver a loguearnos en el sistema.
 
 Ejecutar un contenedor 'hello-world'
 
+5. Previo a ejecutar
+
+sudo service docker start
+
+6. Verificar si funciona
+
+sudo service docker status
+
+
 $ docker run hello-world
